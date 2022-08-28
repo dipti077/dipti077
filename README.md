@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dipti077
-- 👀 I’m interested in coding and get Inform by different technology related stuff
+- 👀 I’m interested in Solve coding questions and find errors in code ;
 - 🌱 I’m currently doing diploma in Information Technology
--  **My skills - C, C++, Java ,PHP & MYSQL(Database connectivity),C#,HTML,CSS etc.
-- 
+-  My skills are C, C++, Java , PHP & MYSQL(Database connectivity), C#, HTML, CSS etc.
+
+
 
 <!---
 dipti077/dipti077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
