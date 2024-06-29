@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipti077
 - 👀 I’m interested in Solve coding questions and find errors in code ;
-- 🌱 I’m currently doing diploma in Information Technology
--  My skills are C, C++, Java , PHP & MYSQL(Database connectivity), C#, HTML, CSS etc.
+- 🌱 I’m persuing BTech in computer science
+-  My skills are C, C++, Java , MYSQL(Database connectivity),HTML, CSS etc.
 
 
 
